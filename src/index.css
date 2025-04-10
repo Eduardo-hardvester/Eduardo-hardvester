@@ -21,6 +21,28 @@ html.dark {
   --color-zinc-900: oklch(.21 .006 285.885); /* Ajustar el color para el modo oscuro si es necesario */
 }
 
+.boton {
+  color: #e2e8f0;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Transiciones suaves para el hover */
+}
+
+.boton:hover {
+  background-color: #edf2f7; /* Fondo blanco casi (zinc-100) */
+  color: #2d3748; /* Texto negro al hacer hover */
+}
+
+.boton:active {
+  background-color: #e2e8f0; /* Fondo ligeramente gris (zinc-200) */
+  color: #2d3748; /* Texto negro en el estado activo */
+}
+
+.boton:disabled {
+  background-color: #e2e8f0; /* Fondo gris claro cuando esté deshabilitado */
+  color: #a0aec0; /* Texto gris claro cuando esté deshabilitado */
+  cursor: not-allowed; /* Desactivar el cursor cuando está deshabilitado */
+}
+
+
 /* Aplicar el fondo usando la variable */
 .bg-white {
   background-color: var(--color-zinc-900);
@@ -38,6 +60,16 @@ html.dark {
   color: var(--color-zinc-800)
 }
 
+.text-zinc-810 {
+  color: var(--color-zinc-800)
+}
+.text-zinc-810:hover{
+  color: cyan;
+}
+.text-white{
+  color: white;
+  font-weight: 800;
+}
 .text-zinc-900 {
   color: var(--color-zinc-800)
 }

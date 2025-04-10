@@ -17,7 +17,7 @@ function Footer() {
                         <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/speaking">Speaking</a>
                         <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/uses">Uses</a>
                       </div>
-                      <p class="text-sm text-zinc-400 dark:text-zinc-500">© 2025 <a href="https://axoltcode.mx" target="_blank" className="text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a>. Todos los derechos reservados.</p>
+                      <p class="text-sm text-zinc-400 dark:text-zinc-500">© 2025 <a href="https://axoltcode.mx" target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a>. Todos los derechos reservados.</p>
                     </div>
                   </div>
                 </div>
