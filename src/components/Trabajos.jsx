@@ -33,7 +33,7 @@ function Trabajos(){
                             <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://axoltcode.mx/img/logo.webp"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a href="https://axoltcode.mx" target="_blank" className="text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a></dd>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a href="https://axoltcode.mx" target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a></dd>
                               <dt class="sr-only">Role</dt>
                               <dd class="text-xs text-zinc-500 dark:text-zinc-400">CEO</dd>
                               <dt class="sr-only">Date</dt>
@@ -49,7 +49,7 @@ function Trabajos(){
                             <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://www.acerosocotlan.mx/wp-content/uploads/2024/07/Logo-Head-Aceros-Ocotlan-300x222.webp"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Aceros Ocotlan</dd>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://www.acerosocotlan.mx'>Aceros Ocotlan</a></dd>
                               <dt class="sr-only">Role</dt>
                               <dd class="text-xs text-zinc-500 dark:text-zinc-400">Desarrollador</dd>
                               <dt class="sr-only">Date</dt>
@@ -81,7 +81,7 @@ function Trabajos(){
                             <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://corporativosie.com.mx/material/images/tab_logo.png"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Corporativo SIE</dd>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://corporativosie.com.mx'>Corporativo SIE</a></dd>
                               <dt class="sr-only">Role</dt>
                               <dd class="text-xs text-zinc-500 dark:text-zinc-400">Developer</dd>
                               <dt class="sr-only">Date</dt>

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link} from "react-router-dom"
 
 function Footer() {
 
@@ -12,12 +13,12 @@ function Footer() {
                   <div class="mx-auto max-w-2xl lg:max-w-5xl">
                     <div class="flex flex-col items-center justify-between gap-6 md:flex-row">
                       <div class="flex flex-wrap justify-center gap-x-6 gap-y-1 text-sm font-medium text-zinc-800 dark:text-zinc-200">
-                        <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/about">Acerca</a>
-                        <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/projects">Proyectos</a>
-                        <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/speaking">Speaking</a>
-                        <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/uses">Uses</a>
+                        <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/acerca">Acerca</Link>
+                        <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/proyectos">Proyectos</Link>
+                        <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/articulos">Articulos</Link>
+                        <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/uses">Uses</Link>
                       </div>
-                      <p class="text-sm text-zinc-400 dark:text-zinc-500">© 2025 <a href="https://axoltcode.mx" target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a>. Todos los derechos reservados.</p>
+                      <p class="text-sm text-zinc-400 dark:text-zinc-500">© 2024 <a href="https://axoltcode.mx" target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a>. Todos los derechos reservados.</p>
                     </div>
                   </div>
                 </div>
