@@ -1,3 +1,5 @@
+import { Link} from "react-router-dom"
+
 export default function Articles() {
     return (
 <main class="flex-auto">
@@ -16,10 +18,10 @@ export default function Articles() {
                                 <div class="md:col-span-3 group relative flex flex-col items-start">
                                     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div>
-                                            <a href="/articles/crafting-a-design-system-for-a-multiplanetary-future">
+                                            <Link to="/articulos/diseno">
                                                 <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                                 <span class="relative z-10">Diseñando sistemas virtuales para un futuro más allá de la tierra.</span>
-                                            </a>
+                                            </Link>
                                     </h2>
                                     <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-05">
                                         <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">

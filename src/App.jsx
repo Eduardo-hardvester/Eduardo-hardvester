@@ -5,6 +5,8 @@ import Body from "./components/Body"
 import Acerca from "./pages/Acerca"
 import Articles from "./pages/Articles"
 import Proyectos from "./pages/Proyectos"
+import Usos from "./pages/Usos"
+import Diseno from "./pages/articulos/Diseno"
 function App() {
 
 
@@ -17,6 +19,8 @@ function App() {
           <Route path="/acerca" element={<Acerca />} />
           <Route path="/articulos" element={<Articles />} />
           <Route path="/proyectos" element={<Proyectos />} />
+          <Route path="/usos" element={<Usos/>} />
+          <Route path="/articulos/diseno" element={<Diseno />}/>
         </Routes>
       </div>
       <Footer/>

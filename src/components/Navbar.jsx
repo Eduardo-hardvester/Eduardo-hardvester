@@ -42,6 +42,11 @@ export default function Navbar() {
     const toggleMenu = () => {
       setIsMenuOpen(!isMenuOpen);
     };
+
+      // Función para cerrar el menú al hacer clic en un enlace
+  const closeMenu = () => {
+    setIsMenuOpen(false);
+  };
   return (
 <>
 <header className="pointer-events-auto relative z-50 flex flex-none flex-col" style={{ height: 'var(--header-height)', marginBottom: 'var(--header-mb)' }}>
@@ -104,11 +109,10 @@ export default function Navbar() {
                     </div>
                     <nav className="mt-6">
                       <ul className="-my-2 divide-y divide-zinc-100 text-base text-zinc-800 dark:divide-zinc-100/5 dark:text-zinc-300">
-                        <li><Link className="block py-2" to="/acerca">Acerca</Link></li>
-                        <li><Link className="block py-2" to="/articulos">Articulos</Link></li>
-                        <li><Link className="block py-2" to="/proyectos">Proyectos</Link></li>
-                        <li><Link className="block py-2" href="/speaking">Speaking</Link></li>
-                        <li><Link className="block py-2" href="/uses">Usos</Link></li>
+                        <li><Link className="block py-2" to="/acerca" onClick={closeMenu}>Acerca</Link></li>
+                        <li><Link className="block py-2" to="/articulos" onClick={closeMenu}>Articulos</Link></li>
+                        <li><Link className="block py-2" to="/proyectos" onClick={closeMenu}>Proyectos</Link></li>
+                        <li><Link className="block py-2" to="/usos" onClick={closeMenu}>Usos</Link></li>
                       </ul>
                     </nav>
                   </div>
@@ -126,11 +130,9 @@ export default function Navbar() {
                   <li>
                   <Link  to="/proyectos" className={`relative block px-3 py-2 transition  ${location.pathname === "/proyectos" ? "text-teal-500 dark:text-teal-400 after:content-[''] after:absolute after:left-1/2 after:-translate-x-1/2 after:bottom-1 after:h-0.5 after:w-6 after:rounded-full after:bg-teal-500 dark:after:bg-teal-400" : "hover:text-teal-500 dark:hover:text-teal-400" }`}>Proyectos</Link>
                   </li>
+
                   <li>
-                    <Link className="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="/speaking">Speaking</Link>
-                  </li>
-                  <li>
-                    <Link className="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="/uses">Usos</Link>
+                    <Link to="/usos" className={`relative block px-3 py-2 transition  ${location.pathname === "/usos" ? "text-teal-500 dark:text-teal-400 after:content-[''] after:absolute after:left-1/2 after:-translate-x-1/2 after:bottom-1 after:h-0.5 after:w-6 after:rounded-full after:bg-teal-500 dark:after:bg-teal-400" : "hover:text-teal-500 dark:hover:text-teal-400" }`}>Usos</Link>
                   </li>
                 </ul>
               </nav>

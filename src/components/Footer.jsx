@@ -16,7 +16,7 @@ function Footer() {
                         <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/acerca">Acerca</Link>
                         <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/proyectos">Proyectos</Link>
                         <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/articulos">Articulos</Link>
-                        <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/uses">Uses</Link>
+                        <Link class="transition hover:text-teal-500 dark:hover:text-teal-400" to="/usos">Uses</Link>
                       </div>
                       <p class="text-sm text-zinc-400 dark:text-zinc-500">© 2024 <a href="https://axoltcode.mx" target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a>. Todos los derechos reservados.</p>
                     </div>
