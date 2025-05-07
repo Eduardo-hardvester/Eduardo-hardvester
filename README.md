@@ -4,6 +4,16 @@ My name is Eduardo Jimenez, my user-agent is H4rdvester.
 I'm a software developer, passionate, focused and very self-taught. I would say I am talented. 
 I like backend development, pentesting and malware analysis. 
 I practice in hack the box, try hack me, aws labs, gcloud and controlled environments, deploying my own web application, opening my own services and exploiting it.
+
+My hard-skills:
+
+-Laravel 11&12
+-Python
+-C++
+-JavaScript (Jquery, Nodejs, Typescript, Angular, Vue.js)
+-Web desing (Adobe XD, Canva & Figma)
+-LINUX & WINDOWS
+-NGINX & APACHE & TOMCAT
 <!--
 **Eduardo-hardvester/Eduardo-hardvester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
