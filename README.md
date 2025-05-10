@@ -1,5 +1,14 @@
 ## Hi there 👋
-My name is Eduardo Jimenez, my user-agent is H4rdvester.
+My name is Eduardo , my user-agent is 4$T4ROTH.
+
+```
+██╗  ██╗▄▄███▄▄·████████╗██╗  ██╗██████╗  ██████╗ ████████╗██╗  ██╗
+██║  ██║██╔════╝╚══██╔══╝██║  ██║██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║
+███████║███████╗   ██║   ███████║██████╔╝██║   ██║   ██║   ███████║
+╚════██║╚════██║   ██║   ╚════██║██╔══██╗██║   ██║   ██║   ██╔══██║
+     ██║███████║   ██║        ██║██║  ██║╚██████╔╝   ██║   ██║  ██║
+     ╚═╝╚═▀▀▀══╝   ╚═╝        ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
+```
 
 I'm a software developer, passionate, focused and very self-taught. I would say I am talented. 
 I like backend development, pentesting and malware analysis. 
@@ -20,14 +29,6 @@ My hard-skills:
 
 ![image](https://github.com/user-attachments/assets/902dbb17-2f13-4072-b5bc-d179922fbf7d)
 
-```
-██╗  ██╗▄▄███▄▄·████████╗██╗  ██╗██████╗  ██████╗ ████████╗██╗  ██╗
-██║  ██║██╔════╝╚══██╔══╝██║  ██║██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║
-███████║███████╗   ██║   ███████║██████╔╝██║   ██║   ██║   ███████║
-╚════██║╚════██║   ██║   ╚════██║██╔══██╗██║   ██║   ██║   ██╔══██║
-     ██║███████║   ██║        ██║██║  ██║╚██████╔╝   ██║   ██║  ██║
-     ╚═╝╚═▀▀▀══╝   ╚═╝        ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
-```
 <!--
 **Eduardo-hardvester/Eduardo-hardvester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
