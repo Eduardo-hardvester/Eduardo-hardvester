@@ -10,10 +10,11 @@ My name is Eduardo , my user-agent is 4$T4ROTH.
      ╚═╝╚═▀▀▀══╝   ╚═╝        ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
 ```
 
-I'm a software developer, passionate, focused and very self-taught. I would say I am talented. 
+I'm a software developer and artist passionate. I would say I am talented. 
 I like backend development, pentesting and malware analysis. 
 I practice in hack the box, try hack me, aws labs, gcloud and controlled environments, deploying my own web application, opening my own services and exploiting it.
 
+```
 My hard-skills:
 
 -Laravel 11&12
@@ -23,7 +24,8 @@ My hard-skills:
 -Web desing (Adobe XD, Canva & Figma)
 -LINUX & WINDOWS
 -NGINX & APACHE & TOMCAT
-                                        
+ 
+```                                       
                                                                              
 
 
