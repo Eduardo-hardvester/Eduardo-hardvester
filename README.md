@@ -17,8 +17,7 @@ My hard-skills:
 
 
 
-
-![image](https://github.com/user-attachments/assets/84bd597a-f282-4817-88dc-f810747df440)
+![image](https://github.com/user-attachments/assets/902dbb17-2f13-4072-b5bc-d179922fbf7d)
 
 <!--
 **Eduardo-hardvester/Eduardo-hardvester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
