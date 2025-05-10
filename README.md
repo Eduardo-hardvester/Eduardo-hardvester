@@ -14,6 +14,12 @@ My hard-skills:
 -Web desing (Adobe XD, Canva & Figma)
 -LINUX & WINDOWS
 -NGINX & APACHE & TOMCAT
+
+
+
+
+![image](https://github.com/user-attachments/assets/84bd597a-f282-4817-88dc-f810747df440)
+
 <!--
 **Eduardo-hardvester/Eduardo-hardvester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
