@@ -23,7 +23,7 @@ export default function Articles() {
                                                 <span class="relative z-10">Diseñando sistemas virtuales para un futuro más allá de la tierra.</span>
                                             </Link>
                                     </h2>
-                                    <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-05">
+                                    <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" >
                                         <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
                                             <span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span>
                                         </span>Marzo 5, 2025
@@ -35,16 +35,16 @@ export default function Articles() {
                                         </svg>
                                     </div>
                                 </div>
-                                <time class="mt-1 max-md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="2022-09-05">September 5, 2022</time>
+                                <time class="mt-1 max-md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" >Marzo 5, 2025</time>
                             </article>
                             <article class="md:grid md:grid-cols-4 md:items-baseline">
                                 <div class="md:col-span-3 group relative flex flex-col items-start">
                                     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div>
-                                        <a href="/articles/introducing-animaginary">
+                                        <Link to="/articulos/programacionconia">
                                             <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                             <span class="relative z-10">Programación con IA</span>
-                                        </a>
+                                        </Link>
                                     </h2>
                                     <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-02">
                                         <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
@@ -58,16 +58,16 @@ export default function Articles() {
                                     </svg>
                                 </div>
                                 </div>
-                                <time class="mt-1 max-md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="2022-09-02">Noviembre 20, 2024</time>
+                                <time class="mt-1 max-md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="2022-09-02">Diciembre 2, 2024</time>
                             </article>
                             <article class="md:grid md:grid-cols-4 md:items-baseline">
                                 <div class="md:col-span-3 group relative flex flex-col items-start">
                                     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div>
-                                        <a href="/articles/rewriting-the-cosmos-kernel-in-rust">
+                                        <Link to="/articulos/programadorjr">
                                             <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                             <span class="relative z-10">La realidad del programador junior: De la teoria a la práctica</span>
-                                        </a>
+                                        </Link>
                                     </h2>
                                     <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-07-14">
                                         <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
@@ -81,7 +81,7 @@ export default function Articles() {
                                         </svg>
                                     </div>
                                 </div>
-                                <time class="mt-1 max-md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="2022-07-14">Noviembre 20, 2024</time>
+                                <time class="mt-1 max-md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" >Noviembre 20, 2024</time>
                             </article>
                         </div>
                     </div>

@@ -7,6 +7,8 @@ import Articles from "./pages/Articles"
 import Proyectos from "./pages/Proyectos"
 import Usos from "./pages/Usos"
 import Diseno from "./pages/articulos/Diseno"
+import Pia from "./pages/articulos/Pia"
+import Pjr from "./pages/articulos/pjr"
 function App() {
 
 
@@ -21,6 +23,8 @@ function App() {
           <Route path="/proyectos" element={<Proyectos />} />
           <Route path="/usos" element={<Usos/>} />
           <Route path="/articulos/diseno" element={<Diseno />}/>
+          <Route path="/articulos/programacionconia" element={<Pia />}/>
+          <Route path="/articulos/programadorjr" element={<Pjr/>}/>
         </Routes>
       </div>
       <Footer/>

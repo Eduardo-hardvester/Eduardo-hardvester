@@ -14,7 +14,7 @@ function Articulos(){
                             <span class="relative z-10">Diseñando sistemas visuales para un futuro más allá de la Tierra.</span>
                           </Link>
                         </h2>
-                        <time class="relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-05">
+                        <time class="relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2025-09-05">
                           <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
                             <span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span>
                           </span>Marzo 5, 2025
@@ -29,12 +29,12 @@ function Articulos(){
                       <article class="group relative flex flex-col items-start">
                         <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
                             <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div>
-                            <Link to="/diseno">
+                            <Link to="/articulos/programacionconia">
                             <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span class="relative z-10">Programación con IA</span>
                             </Link>
                         </h2>
-                        <time class="relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-02">
+                        <time class="relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2025-09-02">
                             <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
                             <span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span></span>Diciembre 2, 2024
                         </time>
@@ -50,10 +50,10 @@ function Articulos(){
                         <article class="group relative flex flex-col items-start">
                         <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
                             <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div>
-                            <a href="/articles/the-struggles-of-a-junior-programmer">
+                            <Link to="/articulos/programadorjr">
                             <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                             <span class="relative z-10">La realidad del programador junior: De la teoría a la práctica</span>
-                            </a>
+                            </Link>
                         </h2>
                         <time class="relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-02">
                             <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
