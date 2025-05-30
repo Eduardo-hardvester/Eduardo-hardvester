@@ -1,7 +1,0 @@
-| Acción                     | Comando                     |
-| -------------------------- | --------------------------- |
-| **Iniciar Nginx**          | `.\nginx`                   |
-| **Recargar configuración** | `.\nginx -s reload`         |
-| **Detener Nginx**          | `.\nginx -s stop`           |
-| **Forzar apagado**         | `taskkill /F /IM nginx.exe` |
-

@@ -6,13 +6,12 @@ import Acerca from "./pages/Acerca"
 import Articles from "./pages/Articles"
 import Proyectos from "./pages/Proyectos"
 import Usos from "./pages/Usos"
-import Diseno from "./pages/articulos/Diseno"
+import Ransomware from "./pages/articulos/Ransomware"
 import Pia from "./pages/articulos/Pia"
-import Pjr from "./pages/articulos/pjr"
+import Breach from "./pages/articulos/Breach"
+
 function App() {
-
-
-  return (
+  return(
     <Router>
       <Navbar />
       <div >
@@ -21,10 +20,9 @@ function App() {
           <Route path="/acerca" element={<Acerca />} />
           <Route path="/articulos" element={<Articles />} />
           <Route path="/proyectos" element={<Proyectos />} />
-          <Route path="/usos" element={<Usos/>} />
-          <Route path="/articulos/diseno" element={<Diseno />}/>
+          <Route path="/articulos/ransomware" element={<Ransomware />}/>
           <Route path="/articulos/programacionconia" element={<Pia />}/>
-          <Route path="/articulos/programadorjr" element={<Pjr/>}/>
+          <Route path="/articulos/breachforum" element={<Breach/>}/>
         </Routes>
       </div>
       <Footer/>

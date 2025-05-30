@@ -46,22 +46,6 @@ function Trabajos(){
                           </li>
                           <li class="flex gap-4">
                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full ring-1 shadow-md shadow-zinc-800/5 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
-                            <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://www.acerosocotlan.mx/wp-content/uploads/2024/07/Logo-Head-Aceros-Ocotlan-300x222.webp"/>                            </div>
-                            <dl class="flex flex-auto flex-wrap gap-x-2">
-                              <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://www.acerosocotlan.mx'>Aceros Ocotlan</a></dd>
-                              <dt class="sr-only">Role</dt>
-                              <dd class="text-xs text-zinc-500 dark:text-zinc-400">Desarrollador</dd>
-                              <dt class="sr-only">Date</dt>
-                              <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2014 until 2019">
-                                <time datetime="2025">2025</time> 
-                                <span aria-hidden="true">—</span> 
-                                <time datetime="2025">Presente</time>
-                              </dd>
-                            </dl>
-                          </li>
-                          <li class="flex gap-4">
-                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full ring-1 shadow-md shadow-zinc-800/5 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
                             <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://avatars.githubusercontent.com/u/1459110?s=200&v=4"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
@@ -70,33 +54,52 @@ function Trabajos(){
                               <dd class="text-xs text-zinc-500 dark:text-zinc-400">Test Technician</dd>
                               <dt class="sr-only">Date</dt>
                               <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2011 until 2014">
-                                <time datetime="2024">2024</time> 
+                                <time datetime="2024">10-2024</time> 
                                 <span aria-hidden="true">—</span> 
-                                <time datetime="2024">2024</time>
+                                <time datetime="2024">01-2025</time>
                               </dd>
                             </dl>
                           </li>
+                          
                           <li class="flex gap-4">
                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full ring-1 shadow-md shadow-zinc-800/5 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
-                            <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://corporativosie.com.mx/material/images/tab_logo.png"/>                            </div>
+                            <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="./img/finestra.jpeg"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://corporativosie.com.mx'>Corporativo SIE</a></dd>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://corporativosie.com.mx'>Finestra</a></dd>
                               <dt class="sr-only">Role</dt>
-                              <dd class="text-xs text-zinc-500 dark:text-zinc-400">Developer</dd>
+                              <dd class="text-xs text-zinc-500 dark:text-zinc-400">Analista TI</dd>
                               <dt class="sr-only">Date</dt>
                               <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2008 until 2011">
-                                <time datetime="2008">2023</time> 
+                                <time datetime="2008">06-2024</time> 
                                 <span aria-hidden="true">—</span> 
-                                <time datetime="2011">2024</time>
+                                <time datetime="2011">10-2024</time>
+                              </dd>
+                            </dl>
+                          </li>
+
+                          <li class="flex gap-4">
+                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full ring-1 shadow-md shadow-zinc-800/5 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
+                            <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://static.wixstatic.com/media/4ece1f_de68e3f2f8ae46848623c1c8df4b9f10~mv2.png/v1/fill/w_317,h_557,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/expresi%C3%B3n_%235_2.png"/>                            </div>
+                            <dl class="flex flex-auto flex-wrap gap-x-2">
+                              <dt class="sr-only">Company</dt>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://corporativosie.com.mx'>Become</a></dd>
+                              <dt class="sr-only">Role</dt>
+                              <dd class="text-xs text-zinc-500 dark:text-zinc-400">Auxiliar de sistemas/Becario</dd>
+                              <dt class="sr-only">Date</dt>
+                              <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2008 until 2011">
+                                <time datetime="2008">01-2024</time>
+                                <span aria-hidden="true">—</span> 
+                                <time datetime="2011">04-2024</time>
                               </dd>
                             </dl>
                           </li>
                         </ol>
+
                         <a
                           className="inline-flex items-center gap-2 justify-center rounded-md py-2 px-3 text-sm outline-offset-2 transition active:transition-none bg-zinc-50 font-medium text-zinc-900 hover:bg-zinc-100 active:bg-zinc-100 active:text-zinc-900/60 dark:bg-zinc-800/50 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:hover:text-zinc-50 dark:active:bg-zinc-800/50 dark:active:text-zinc-50/70 group mt-6 w-full"
-                          href="/src/cv/CV_GarciaAnguianoCesar.pdf"
-                          download="CV_Garcia.pdf"
+                          href="/src/cv/JESUS-EDUARDO-JIMENEZ-CV-ENGLISH.pdf"
+                          download="Eduardo-Jimenez-CV.pdf"
                           onClick={handleDownload}
                           style={{ pointerEvents: hasDownloaded ? 'none' : 'auto' }} // Deshabilitar el enlace si ya se descargó
                         >

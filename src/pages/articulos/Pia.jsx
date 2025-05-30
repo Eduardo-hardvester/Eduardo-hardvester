@@ -34,7 +34,7 @@ export default function Pia() {
                     <article>
                       <header className="flex flex-col">
                         <h1 className="mt-6 text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-                          Programación con IA: el futuro del desarrollo de software
+                          Cinco tendencias de tecnologías innovadoras en 2024.
                         </h1>
                         <time
                           dateTime="2025-03-05"
@@ -51,25 +51,18 @@ export default function Pia() {
 
 
                         <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
-                          ¿Cómo está impactando la IA en el desarrollo?
+                          El año del IoC o Internet del Comportamiento
                         </h2>
                         <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-                          Herramientas como GitHub Copilot o ChatGPT están asistiendo a los programadores a escribir código más rápido, detectar errores y sugerir mejoras. Esto no solo reduce el tiempo de desarrollo, sino que también mejora la calidad del software.
-                        </p>
-                        <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-                          Además, los frameworks de machine learning como TensorFlow o PyTorch permiten crear modelos inteligentes que pueden predecir comportamientos, automatizar procesos complejos e incluso generar código por sí mismos.
+                          Al fusionar la potencia de la Inteligencia Artificial, el aprendizaje automático y la tecnología IoT, logramos capturar nuestras interacciones humanas, generando así un ecosistema que no solo comprende nuestras preferencias en productos y servicios, sino que también nos brinda la capacidad única de anticipar y responder de manera precisa a situaciones cotidianas.
                         </p>
 
                         <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
-                          Ventajas de programar con IA
+                        Nube más eficiente, control de datos y CDEs
                         </h2>
-                        <ul className="list-disc ml-6 text-sm text-zinc-600 dark:text-zinc-400">
-                          <li>Automatización de tareas repetitivas y tediosas</li>
-                          <li>Reducción de errores humanos mediante sugerencias inteligentes</li>
-                          <li>Mejora continua gracias al aprendizaje automático</li>
-                          <li>Incremento en la productividad del equipo de desarrollo</li>
-                          <li>Facilidad para probar y refactorizar código en tiempo real</li>
-                        </ul>
+                        <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+                        Según Manuel Gómez, de acens, en 2024 “el cloud continuará su tendencia hacia la ‘nube soberana’: las compañías buscarán mantener el control en los elementos clave para cumplir con el marco legal y evitar riesgos permaneciendo en Europa como exige la regulación comunitaria”. De hecho, el gasto global en soluciones de nube soberana alcanzará 258.500 millones de dólares para 2027, según las estimaciones de la consultora IDC.
+                        </p>
 
                         <img
                           alt="Ilustración de IA programando"
@@ -81,14 +74,26 @@ export default function Pia() {
                           style={{ color: "transparent" }}
                           className="rounded-lg mt-6 shadow-xl"
                         />
+
                         <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
-                          Reflexión final
+                          IA generativa más allá de un simple chatbot de moda
                         </h2>
                         <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-                          Aunque la IA todavía necesita supervisión humana y criterios éticos para su implementación, su potencial es innegable. Programar con inteligencia artificial no significa que los desarrolladores sean reemplazados, sino que sus capacidades son potenciadas.
+                        En el camino hacia la puesta en marcha efectiva de la IA generativa en el entorno empresarial, surgen desafíos técnicos complejos que van más allá de simplemente ‘alimentar un modelo con datos y esperar resultados’.  Según explican desde Paradigma este año será el año de la IA generativa, pero las empresas deben gestionar algunos desafíos.
                         </p>
+
+                        <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
+                        IA y ciberseguridad.
+                        </h2>
                         <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-                          Estamos ante una nueva era del desarrollo, en la que la colaboración entre humanos y máquinas redefine lo que es posible construir.
+                        Según apunta Elia Zaitsev, CTO de CrowdStrike, los puntos ciegos de la Inteligencia Artificial están abriendo la puerta a nuevos riesgos dentro de las empresas y en la sociedad en general. En 2024, CrowdStrike espera que los ciberdelincuentes trasladen sus objetivos hacia los sistemas de IA, con el objetivo de atacar a las organizaciones, por un lado, a través de vulnerabilidades en sistemas legítimos y, por otro, aprovechando puntos ciegos debido al uso no autorizado de herramientas de IA por parte de los empleados de la organización.
+                        </p>
+
+                        <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
+                        Manipulación de procesos electorales.
+                        </h2>
+                        <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+                        Dado el progreso reciente con la IA generativa (que incluye audio, imágenes, vídeo y texto), los ciberdelincuentes tendrán herramientas, capacidades y enfoques adicionales para crear contenido malicioso, todo lo cual podría dificultar que los votantes sean capaces de discernir lo que es real. Por ello, Gobiernos, Parlamentos, profesionales de la IA y la comunidad de ciberseguridad en general deberán trabajar conjuntamente para analizar los avances en este espacio.
                         </p>
                       </div>
                     </article>

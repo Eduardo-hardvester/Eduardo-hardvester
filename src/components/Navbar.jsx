@@ -49,6 +49,7 @@ export default function Navbar() {
   };
   return (
 <>
+
 <header className="pointer-events-auto relative z-50 flex flex-none flex-col" style={{ height: 'var(--header-height)', marginBottom: 'var(--header-mb)' }}>
 <div className="order-last mt-[calc(--spacing(16)-(--spacing(3)))]"></div>
 <div className="sm:px-8 top-0 order-last -mb-3 pt-3" style={{ position: 'var(--header-position)' }}>
@@ -70,15 +71,37 @@ export default function Navbar() {
                 className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16" 
                 style={{ color: 'transparent' }} 
                 sizes="4rem" 
-                src="/img/cesar.webp" 
+                src="/img/Eduardo Jimenez.jpg" 
               />
             </Link>
+          </div>
+          
+          <div className="relative float-right">
+            <div className="absolute right-0">
+            <div className="absolute top-3 left-0 origin-left transition-opacity h-10 w-10 rounded-full bg-white/90 p-0.5 ring-1 shadow-lg shadow-zinc-800/5 ring-zinc-900/5 backdrop-blur-sm dark:bg-zinc-800/90 dark:ring-white/10" style={{ opacity: 'var(--avatar-border-opacity, 0)', transform: 'var(--avatar-border-transform)' }}>
+            </div>
+              <Link aria-label="Home" className="block h-16 w-16 origin-left pointer-events-auto" style={{ transform: 'var(--avatar-image-transform)' }} to="/">
+                <img 
+                  alt="Perfil" 
+                  fetchpriority="high" 
+                  width="512" 
+                  height="512" 
+                  decoding="async" 
+                  data-nimg="1" 
+                  className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16" 
+                  style={{ color: 'transparent' }} 
+                  sizes="4rem" 
+                  src="/img/asta.jpeg" 
+                />
+              </Link>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
 </div>
+
 
 <div className="top-0 z-10 h-16 pt-6" style={{ position: 'var(--header-position)' }}>
   <div className="sm:px-8 top-(--header-top,--spacing(6)) w-full" style={{ position: 'var(--header-inner-position)' }}>
@@ -112,7 +135,7 @@ export default function Navbar() {
                         <li><Link className="block py-2" to="/acerca" onClick={closeMenu}>Acerca</Link></li>
                         <li><Link className="block py-2" to="/articulos" onClick={closeMenu}>Articulos</Link></li>
                         <li><Link className="block py-2" to="/proyectos" onClick={closeMenu}>Proyectos</Link></li>
-                        <li><Link className="block py-2" to="/usos" onClick={closeMenu}>Usos</Link></li>
+                        {/* <li><Link className="block py-2" to="/usos" onClick={closeMenu}>Usos</Link></li> */}
                       </ul>
                     </nav>
                   </div>
@@ -131,9 +154,9 @@ export default function Navbar() {
                   <Link  to="/proyectos" className={`relative block px-3 py-2 transition  ${location.pathname === "/proyectos" ? "text-teal-500 dark:text-teal-400 after:content-[''] after:absolute after:left-1/2 after:-translate-x-1/2 after:bottom-1 after:h-0.5 after:w-6 after:rounded-full after:bg-teal-500 dark:after:bg-teal-400" : "hover:text-teal-500 dark:hover:text-teal-400" }`}>Proyectos</Link>
                   </li>
 
-                  <li>
+                  {/* <li>
                     <Link to="/usos" className={`relative block px-3 py-2 transition  ${location.pathname === "/usos" ? "text-teal-500 dark:text-teal-400 after:content-[''] after:absolute after:left-1/2 after:-translate-x-1/2 after:bottom-1 after:h-0.5 after:w-6 after:rounded-full after:bg-teal-500 dark:after:bg-teal-400" : "hover:text-teal-500 dark:hover:text-teal-400" }`}>Usos</Link>
-                  </li>
+                  </li> */}
                 </ul>
               </nav>
             </div>
