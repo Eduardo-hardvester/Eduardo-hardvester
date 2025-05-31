@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React Logo" />
   
   <h1>EDUARDO JIMENEZ</h1>
 
