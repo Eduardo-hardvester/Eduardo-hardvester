@@ -29,9 +29,8 @@
 - Mysql, Microsoft SQL, Oracle y Mongo.
 - Despliegue de aplicaciones. (NGINX, Apache2, Tomcat, Jekings)
 - CLOUD (AWS, Azure, GCloud)
-- Pruebas de penetración (Caja negra y blanca)
+- Pentesting (Caja negra y blanca)
 
-ACTUALMENTE ME DEDICO AL BUG-BOUNTY DE FORMA ANONIMA COMO UN PASATIEMPO Y POR OTRA REALIZO PROYECTOS DE SOFTWARE PARA PEQUEÑAS EMPRESAS, UN GRUPO DE AMIGOS Y YO HEMOS DECIDIDO EMPRENDER UN NEGOCIO EN DONDE DESARROLLAMOS NUESTRAS HABILIDADES Y COMPLEMENTAMOS TODAS LAS FASES DEL CICLO DE SOFTWARE.
 
 https://eduardo.axoltcode.mx:4430/
 ---
