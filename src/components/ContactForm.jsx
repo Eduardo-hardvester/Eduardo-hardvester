@@ -16,7 +16,7 @@ const ContactForm = () => {
   };
 
   useEffect(() => {
-    autoResize(); // Por si hay texto por defecto
+    autoResize();
   }, []);
   const validateEmail = (email) => {
     const re =
@@ -53,10 +53,10 @@ const ContactForm = () => {
 
     try {
       await emailjs.sendForm(
-        "service_t1e9f4i",
-        "template_ki7f7al",
+        "service_nxxfyqs",
+        "service_nxxfyqs",
         form.current,
-        "8-0wtUcCXWqlLXgyl"
+        "8-fD2zHcZiFpKLL8YqM"
       );
 
       Swal.fire({

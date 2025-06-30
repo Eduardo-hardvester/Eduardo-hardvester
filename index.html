@@ -21,18 +21,18 @@
         <div class="flex-none" style="height:var(--content-offset)"></div>
       </div>
     </div>
-
   </body>
+
 <script>
-window.addEventListener('scroll', () => {
-  const scrollY = window.scrollY;
-  // Ajusta estos valores para controlar cuánto se reduce la imagen
-  const minScale = 0.5; // Tamaño mínimo (0.5 = 50% del tamaño original)
-  const scrollSensitivity = 300; // Cuánto scroll se necesita para alcanzar el tamaño mínimo (valores más bajos = más sensible)
-  
-  const scale = Math.max(minScale, 1 - scrollY / scrollSensitivity);
-  document.documentElement.style.setProperty('--avatar-image-transform', `scale(${scale})`);
-});
+  window.addEventListener('scroll', () => {
+    const scrollY = window.scrollY;
+    // Ajusta estos valores para controlar cuánto se reduce la imagen
+    const minScale = 0.5; // Tamaño mínimo (0.5 = 50% del tamaño original)
+    const scrollSensitivity = 300; // Cuánto scroll se necesita para alcanzar el tamaño mínimo (valores más bajos = más sensible)
+
+    const scale = Math.max(minScale, 1 - scrollY / scrollSensitivity);
+    document.documentElement.style.setProperty('--avatar-image-transform', `scale(${scale})`);
+  });
 </script>
 
 <script>
