@@ -16,35 +16,10 @@
 
 ---
 
-## 📂 Contenido del portafolio
-
-- 🏠 Página principal con introducción personal
-- 🗞️ Vista de artículos temáticos con experiencia propia
-- 🧩 Componentes reutilizables y modularizados
-- 🎨 Estilo limpio, responsivo y con soporte a dark mode
-- 🔐 Arquitectura pensada para escalabilidad y control
-
----
 
 ## 👨‍💼 Sobre mí
 
 Como desarrollador, estoy comprometido con la creación de soluciones tecnológicas funcionales y elegantes.  
 Mi enfoque combina la mejora continua, la automatización, y el diseño de sistemas seguros, eficientes y escalables.  
 Este portafolio es una ventana a mi crecimiento y mis habilidades reales.
-
----
-
-## 👨‍💻 Instalación local
-
-```bash
-git clone https://github.com/Da1ch1/Portafolio.git
-cd Portafolio
-npm install
-npm run dev -
-```
-📄 Licencia
-Este proyecto es de carácter personal y forma parte del ecosistema de desarrollo de AxoltCode.
-Su uso es libre con fines educativos, pero su distribución o modificación para fines comerciales está restringida.
-
-<div align="center"> Hecho con 💙 por <a href="https://github.com/Da1ch1" target="_blank"> <img src="https://img.shields.io/badge/-@Da1ch1-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </a> </div> 
 
