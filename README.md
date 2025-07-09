@@ -9,11 +9,9 @@
 
 ## 🚀 Tecnologías principales
 
-- ⚛️ React
-- ⚡ Vite
+- ⚛️ React, Laravel, C#, Python
 - 🎨 Tailwind CSS
 - 🧭 React Router DOM
-- 🌙 Modo oscuro (Dark Mode)
 - 🛡️ Buenas prácticas de estructura y seguridad de componentes
 
 ---
@@ -28,27 +26,9 @@
 
 ---
 
-## 📝 Artículos destacados
-
-- **🧠 Programación con IA**  
-  Exploración sobre cómo la inteligencia artificial está cambiando la forma de desarrollar software.
-
-- **💻 La realidad del programador junior**  
-  Reflexión personal sobre los retos reales de comenzar en la industria desde cero.
-
----
-
-## 🖼️ Captura de ejemplo
-
-<div align="center">
-  <img src="public/img/dis.png" alt="Vista previa del portafolio" width="600" />
-</div>
-
----
-
 ## 👨‍💼 Sobre mí
 
-Como desarrollador y CEO de **AxoltCode**, estoy comprometido con la creación de soluciones tecnológicas funcionales y elegantes.  
+Como desarrollador, estoy comprometido con la creación de soluciones tecnológicas funcionales y elegantes.  
 Mi enfoque combina la mejora continua, la automatización, y el diseño de sistemas seguros, eficientes y escalables.  
 Este portafolio es una ventana a mi crecimiento y mis habilidades reales.
 
