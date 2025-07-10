@@ -71,7 +71,7 @@ export default function Navbar() {
                 className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16" 
                 style={{ color: 'transparent' }} 
                 sizes="4rem" 
-                src="/img/Eduardo Jimenez.jpg" 
+                src="/img/EduardoJimenez.jpg" 
               />
             </Link>
           </div>
