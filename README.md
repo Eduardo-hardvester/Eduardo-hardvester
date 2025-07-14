@@ -9,17 +9,18 @@
 
 ## 🚀 Tecnologías principales
 
-- ⚛️ React, Laravel, C#, Python
-- 🎨 Tailwind CSS
-- 🧭 React Router DOM
+- ⚛️ Laravel, .net core, Python, PHP, Vite js, React.
+- 🎨 Tailwind CSS.
 - 🛡️ Buenas prácticas de estructura y seguridad de componentes
-
+- ☁️ AWS, GCLOUD, AZURE y IONOS.
+- 🖥️ DEBIAN, UBUNTU, KALI Y WINDOWS.
+- 🔧 Docker, kubernetes, Jetkings, Nginx, Apache2 y Wordpress.
+- 🏴‍☠️ Conocimiento solido en SQL Injection, RCE, XSS, SSRF, Security Misconfiguration, Wordpress Att y LFI.
 ---
 
 
 ## 👨‍💼 Sobre mí
 
-Como desarrollador, estoy comprometido con la creación de soluciones tecnológicas funcionales y elegantes.  
-Mi enfoque combina la mejora continua, la automatización, y el diseño de sistemas seguros, eficientes y escalables.  
-Este portafolio es una ventana a mi crecimiento y mis habilidades reales.
+Ingeniero de software autodidacta con 3 años de experiencia en TI, apasionado por la informática y en constante aprendizaje. 
+He desarrollado habilidades en cloud computing (AWS, Azure y Google Cloud), desarrollo web y ciberseguridad, con un enfoque especial en la preparación para la certificación eJPT (eLearnSecurity Junior Penetration Tester). 
 
