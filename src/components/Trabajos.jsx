@@ -66,7 +66,7 @@ function Trabajos(){
                             <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="./img/finestra.jpeg"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://corporativosie.com.mx'>Finestra</a></dd>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://finestra.mx/'>Finestra</a></dd>
                               <dt class="sr-only">Role</dt>
                               <dd class="text-xs text-zinc-500 dark:text-zinc-400">Analista TI</dd>
                               <dt class="sr-only">Date</dt>
@@ -83,7 +83,7 @@ function Trabajos(){
                             <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://static.wixstatic.com/media/4ece1f_de68e3f2f8ae46848623c1c8df4b9f10~mv2.png/v1/fill/w_317,h_557,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/expresi%C3%B3n_%235_2.png"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://corporativosie.com.mx'>Become</a></dd>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://www.become.com.mx/'>Become</a></dd>
                               <dt class="sr-only">Role</dt>
                               <dd class="text-xs text-zinc-500 dark:text-zinc-400">Auxiliar de sistemas/Becario</dd>
                               <dt class="sr-only">Date</dt>
