@@ -30,7 +30,7 @@ function Trabajos(){
                         <ol class="mt-6 space-y-4">
                           <li class="flex gap-4">
                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full ring-1 shadow-md shadow-zinc-800/5 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
-                            <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://axoltcode.mx/img/logo.webp"/>                            </div>
+                            <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://axoltcode.mx/img/logn.webp"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
                               <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a href="https://axoltcode.mx" target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a></dd>
@@ -49,7 +49,7 @@ function Trabajos(){
                             <img alt="" loading="lazy" width="32" height="32" decoding="async" className="h-7 w-7" style={{color:"transparent"}} src="https://avatars.githubusercontent.com/u/1459110?s=200&v=4"/>                            </div>
                             <dl class="flex flex-auto flex-wrap gap-x-2">
                               <dt class="sr-only">Company</dt>
-                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">IBM</dd>
+                              <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200" href='https://www.ibm.com/mx-es'>IBM</a></dd>
                               <dt class="sr-only">Role</dt>
                               <dd class="text-xs text-zinc-500 dark:text-zinc-400">Test Technician</dd>
                               <dt class="sr-only">Date</dt>
