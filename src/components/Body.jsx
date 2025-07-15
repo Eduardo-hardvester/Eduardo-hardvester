@@ -13,9 +13,9 @@ function Body() {
               <div class="relative px-4 sm:px-8 lg:px-12">
                 <div class="mx-auto max-w-2xl lg:max-w-5xl">
                   <div class="max-w-2xl">
-                    <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">Desarrollador de Software, CEO, y  emprendedor.</h1>
+                    <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">Devops, desarrollador y tester.</h1>
                     <p class="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-                      Hola, soy Eduardo Jiménez, desarrollador y emprendedor junto a un equipo talentoso en AxoltCode. Actualmente me enfoco en fortalecer tanto mis habilidades técnicas como blandas, para liderar el crecimiento de nuestra empresa.
+                      Hola, soy Eduardo Jiménez, devops y desarrollador que trabaja en junto a un equipo talentoso de AxoltCode. Actualmente me dedico al desarrollo y despliegue de aplicaciones web, así mismo aplico las pruebas de seguridad de los servidores y aplicaciones para fortalecer mis habilidades técnicas y ofrecer soluciones profesionales dentro de AXOLTCODE.
                         <a href="https://axoltcode.mx" target="_blank" class="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">
                         <br></br>En AxoltCode
                       </a>, 

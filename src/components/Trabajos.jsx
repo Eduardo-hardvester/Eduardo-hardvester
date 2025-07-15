@@ -35,7 +35,7 @@ function Trabajos(){
                               <dt class="sr-only">Company</dt>
                               <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100"><a href="https://axoltcode.mx" target="_blank" className="text-zinc-810 dark:text-white hover:text-cyan-500 transition-colors duration-200">AxoltCode</a></dd>
                               <dt class="sr-only">Role</dt>
-                              <dd class="text-xs text-zinc-500 dark:text-zinc-400">CEO</dd>
+                              <dd class="text-xs text-zinc-500 dark:text-zinc-400">Devops</dd>
                               <dt class="sr-only">Date</dt>
                               <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2019 until Present">
                                 <time datetime="2025">2025</time> 
