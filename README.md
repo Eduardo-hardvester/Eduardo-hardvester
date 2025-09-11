@@ -19,6 +19,6 @@
 
 ## 👨‍💼 Sobre mí
 
-Ingeniero de software autodidacta con 3 años de experiencia en TI, apasionado por la informática y en constante aprendizaje. 
+Ingeniero de software autodidacta con 2 años de experiencia en TI, apasionado por la informática y en constante aprendizaje. 
 He desarrollado habilidades en cloud computing (AWS, Azure y Google Cloud), desarrollo web y ciberseguridad, con un enfoque especial en la preparación para la certificación eJPT (eLearnSecurity Junior Penetration Tester). 
 
